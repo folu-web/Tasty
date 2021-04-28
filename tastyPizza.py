@@ -2,11 +2,11 @@ import time
 
 pizzas = {1: "vegetarian", 2: "meaty", 3: "pepperoni",
           4: "hawaiian", 5: "BBQ-spicedchicken"}
-pizzaSize = {'vegetarian': {'small': 12, 'medium': 15, 'large': 20},
+pizzaSize = {'vegetarian': {'small': 13, 'medium': 17, 'large': 22},
              'meaty': {'small': 15, 'medium': 25, 'large': 30},
              'pepperoni': {'small': 10, 'medium': 15, 'large': 20},
              'hawaiian': {'small': 22, 'medium': 35, 'large': 40},
-             'BBQ-spicedchicken': {'small': 20, 'medium': 27, 'large': 35}}
+             'BBQ-spicedchicken': {'small': 20, 'medium': 28, 'large': 34}}
 
 custOrder = 'yes'
 yes = ('Yes', 'yes', 'y')
